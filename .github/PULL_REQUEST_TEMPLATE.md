@@ -2,7 +2,7 @@
 
 Thanks for taking the time to review the project. Here are some things important to note about it:
 
-## Now into the project...
+## Now into the project..
 
 ### Changes implemented in "branchname" branch
 
